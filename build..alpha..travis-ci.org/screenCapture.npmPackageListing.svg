@@ -1,198 +1,198 @@
 <svg height="3118" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3118" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 09:12:40 +0000   780988 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 09:12:40 +0000    78806 bytes  CHANGES.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 09:12:40 +0000     2636 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 09:12:40 +0000     6665 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 09:12:40 +0000      114 bytes  babel-presets/inferno.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 09:12:40 +0000      103 bytes  babel-presets/preact.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 09:12:40 +0000      424 bytes  babel-presets/react-hmre.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 09:12:40 +0000      108 bytes  babel-presets/react-prod.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 09:12:40 +0000    13850 bytes  docs/Commands.md</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 09:12:40 +0000    33049 bytes  docs/Configuration.md</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 09:12:40 +0000     4976 bytes  docs/Examples.md</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 09:12:40 +0000     2434 bytes  docs/FAQ.md</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 09:12:40 +0000     4774 bytes  docs/Features.md</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 09:12:40 +0000     1103 bytes  docs/ImplementingPlugins.md</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 09:12:40 +0000     1346 bytes  docs/Middleware.md</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 09:12:40 +0000     1611 bytes  docs/Plugins.md</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 09:12:40 +0000      963 bytes  docs/README.md</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 09:12:40 +0000     8621 bytes  docs/Testing.md</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 09:12:40 +0000     1484 bytes  docs/Versioning.md</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 09:12:40 +0000    14214 bytes  docs/guides/QuickDevelopment.md</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 09:12:40 +0000      237 bytes  docs/guides/README.md</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 09:12:40 +0000    22370 bytes  docs/guides/ReactApps.md</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 09:12:40 +0000    18734 bytes  docs/guides/ReactComponents.md</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 09:12:40 +0000    10878 bytes  docs/guides/resources/react-app-build-dist.png</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 09:12:40 +0000     8351 bytes  docs/guides/resources/react-app-build.png</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 09:12:40 +0000    13706 bytes  docs/guides/resources/react-app-default.png</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 09:12:40 +0000    29395 bytes  docs/guides/resources/react-app-test-coverage-ht\</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 09:15:05 +0000   780988 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:15:05 +0000    78806 bytes  CHANGES.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:15:05 +0000     2636 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:15:05 +0000     6665 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:15:05 +0000      114 bytes  babel-presets/inferno.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:15:05 +0000      103 bytes  babel-presets/preact.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:15:05 +0000      424 bytes  babel-presets/react-hmre.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:15:05 +0000      108 bytes  babel-presets/react-prod.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:15:05 +0000    13850 bytes  docs/Commands.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:15:05 +0000    33049 bytes  docs/Configuration.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:15:05 +0000     4976 bytes  docs/Examples.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 09:15:05 +0000     2434 bytes  docs/FAQ.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 09:15:05 +0000     4774 bytes  docs/Features.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 09:15:05 +0000     1103 bytes  docs/ImplementingPlugins.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 09:15:05 +0000     1346 bytes  docs/Middleware.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 09:15:05 +0000     1611 bytes  docs/Plugins.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 09:15:05 +0000      963 bytes  docs/README.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 09:15:05 +0000     8621 bytes  docs/Testing.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 09:15:05 +0000     1484 bytes  docs/Versioning.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 09:15:05 +0000    14214 bytes  docs/guides/QuickDevelopment.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 09:15:05 +0000      237 bytes  docs/guides/README.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 09:15:05 +0000    22370 bytes  docs/guides/ReactApps.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 09:15:05 +0000    18734 bytes  docs/guides/ReactComponents.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 09:15:05 +0000    10878 bytes  docs/guides/resources/react-app-build-dist.png</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 09:15:05 +0000     8351 bytes  docs/guides/resources/react-app-build.png</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 09:15:05 +0000    13706 bytes  docs/guides/resources/react-app-default.png</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 09:15:05 +0000    29395 bytes  docs/guides/resources/react-app-test-coverage-ht\</tspan>
 <tspan x="10" y="458">ml.png</tspan>
-<tspan x="10" y="474"> 27.  2017-04-18 09:12:40 +0000    18225 bytes  docs/guides/resources/react-app-test-coverage.pn\</tspan>
+<tspan x="10" y="474"> 27.  2017-04-18 09:15:05 +0000    18225 bytes  docs/guides/resources/react-app-test-coverage.pn\</tspan>
 <tspan x="10" y="490">g</tspan>
-<tspan x="10" y="506"> 28.  2017-04-18 09:12:40 +0000    13472 bytes  docs/guides/resources/react-component-build.png</tspan>
-<tspan x="10" y="522"> 29.  2017-04-18 09:12:40 +0000    15390 bytes  docs/guides/resources/react-component-demo.gif</tspan>
-<tspan x="10" y="538"> 30.  2017-04-18 09:12:40 +0000    20105 bytes  docs/guides/resources/react-component-serve-erro\</tspan>
+<tspan x="10" y="506"> 28.  2017-04-18 09:15:05 +0000    13472 bytes  docs/guides/resources/react-component-build.png</tspan>
+<tspan x="10" y="522"> 29.  2017-04-18 09:15:05 +0000    15390 bytes  docs/guides/resources/react-component-demo.gif</tspan>
+<tspan x="10" y="538"> 30.  2017-04-18 09:15:05 +0000    20105 bytes  docs/guides/resources/react-component-serve-erro\</tspan>
 <tspan x="10" y="554">r-browser.png</tspan>
-<tspan x="10" y="570"> 31.  2017-04-18 09:12:40 +0000    12330 bytes  docs/guides/resources/react-component-serve-erro\</tspan>
+<tspan x="10" y="570"> 31.  2017-04-18 09:15:05 +0000    12330 bytes  docs/guides/resources/react-component-serve-erro\</tspan>
 <tspan x="10" y="586">r-console.png</tspan>
-<tspan x="10" y="602"> 32.  2017-04-18 09:12:40 +0000    21504 bytes  docs/guides/resources/react-component-test-cover\</tspan>
+<tspan x="10" y="602"> 32.  2017-04-18 09:15:05 +0000    21504 bytes  docs/guides/resources/react-component-test-cover\</tspan>
 <tspan x="10" y="618">age-html.png</tspan>
-<tspan x="10" y="634"> 33.  2017-04-18 09:12:40 +0000    16661 bytes  docs/guides/resources/react-component-test-cover\</tspan>
+<tspan x="10" y="634"> 33.  2017-04-18 09:15:05 +0000    16661 bytes  docs/guides/resources/react-component-test-cover\</tspan>
 <tspan x="10" y="650">age.png</tspan>
-<tspan x="10" y="666"> 34.  2017-04-18 09:12:40 +0000    23113 bytes  docs/guides/resources/react-serve-app-error-brow\</tspan>
+<tspan x="10" y="666"> 34.  2017-04-18 09:15:05 +0000    23113 bytes  docs/guides/resources/react-serve-app-error-brow\</tspan>
 <tspan x="10" y="682">ser.png</tspan>
-<tspan x="10" y="698"> 35.  2017-04-18 09:12:40 +0000    17136 bytes  docs/guides/resources/react-serve-app-error-cons\</tspan>
+<tspan x="10" y="698"> 35.  2017-04-18 09:15:05 +0000    17136 bytes  docs/guides/resources/react-serve-app-error-cons\</tspan>
 <tspan x="10" y="714">ole.png</tspan>
-<tspan x="10" y="730"> 36.  2017-04-18 09:12:40 +0000    65388 bytes  docs/guides/resources/react-serve-app-hmr-css.gi\</tspan>
+<tspan x="10" y="730"> 36.  2017-04-18 09:15:05 +0000    65388 bytes  docs/guides/resources/react-serve-app-hmr-css.gi\</tspan>
 <tspan x="10" y="746">f</tspan>
-<tspan x="10" y="762"> 37.  2017-04-18 09:12:40 +0000    50693 bytes  docs/guides/resources/react-serve-app-hmr-js.gif</tspan>
-<tspan x="10" y="778"> 38.  2017-04-18 09:12:40 +0000     4407 bytes  docs/guides/resources/react-serve-app-render-err\</tspan>
+<tspan x="10" y="762"> 37.  2017-04-18 09:15:05 +0000    50693 bytes  docs/guides/resources/react-serve-app-hmr-js.gif</tspan>
+<tspan x="10" y="778"> 38.  2017-04-18 09:15:05 +0000     4407 bytes  docs/guides/resources/react-serve-app-render-err\</tspan>
 <tspan x="10" y="794">or.png</tspan>
-<tspan x="10" y="810"> 39.  2017-04-18 09:12:40 +0000     2920 bytes  docs/guides/resources/react-serve.png</tspan>
-<tspan x="10" y="826"> 40.  2017-04-18 09:12:40 +0000       52 bytes  express.js</tspan>
-<tspan x="10" y="842"> 41.  2017-04-18 09:12:40 +0000     2907 bytes  lib/WebpackStatusPlugin.js</tspan>
-<tspan x="10" y="858"> 42.  2017-04-18 09:12:40 +0000      899 bytes  lib/appConfig.js</tspan>
-<tspan x="10" y="874"> 43.  2017-04-18 09:12:40 +0000     4202 bytes  lib/bin/inferno.js</tspan>
-<tspan x="10" y="890"> 44.  2017-04-18 09:12:40 +0000      961 bytes  lib/bin/nwb.js</tspan>
-<tspan x="10" y="906"> 45.  2017-04-18 09:12:40 +0000     4191 bytes  lib/bin/preact.js</tspan>
-<tspan x="10" y="922"> 46.  2017-04-18 09:12:40 +0000     4362 bytes  lib/bin/react.js</tspan>
-<tspan x="10" y="938"> 47.  2017-04-18 09:12:40 +0000     9842 bytes  lib/cli.js</tspan>
-<tspan x="10" y="954"> 48.  2017-04-18 09:12:40 +0000     1741 bytes  lib/commands/build-demo.js</tspan>
-<tspan x="10" y="970"> 49.  2017-04-18 09:12:40 +0000     2179 bytes  lib/commands/build-inferno-app.js</tspan>
-<tspan x="10" y="986"> 50.  2017-04-18 09:12:40 +0000     3186 bytes  lib/commands/build-inferno.js</tspan>
-<tspan x="10" y="1002"> 51.  2017-04-18 09:12:40 +0000     2209 bytes  lib/commands/build-preact-app.js</tspan>
-<tspan x="10" y="1018"> 52.  2017-04-18 09:12:40 +0000     3189 bytes  lib/commands/build-preact.js</tspan>
-<tspan x="10" y="1034"> 53.  2017-04-18 09:12:40 +0000     2857 bytes  lib/commands/build-react-app.js</tspan>
-<tspan x="10" y="1050"> 54.  2017-04-18 09:12:40 +0000     1697 bytes  lib/commands/build-react-component.js</tspan>
-<tspan x="10" y="1066"> 55.  2017-04-18 09:12:40 +0000     3963 bytes  lib/commands/build-react.js</tspan>
-<tspan x="10" y="1082"> 56.  2017-04-18 09:12:40 +0000     1998 bytes  lib/commands/build-web-app.js</tspan>
-<tspan x="10" y="1098"> 57.  2017-04-18 09:12:40 +0000      458 bytes  lib/commands/build-web-module.js</tspan>
-<tspan x="10" y="1114"> 58.  2017-04-18 09:12:40 +0000     1666 bytes  lib/commands/build.js</tspan>
-<tspan x="10" y="1130"> 59.  2017-04-18 09:12:40 +0000      827 bytes  lib/commands/check-config.js</tspan>
-<tspan x="10" y="1146"> 60.  2017-04-18 09:12:40 +0000      260 bytes  lib/commands/clean-app.js</tspan>
-<tspan x="10" y="1162"> 61.  2017-04-18 09:12:40 +0000      224 bytes  lib/commands/clean-demo.js</tspan>
-<tspan x="10" y="1178"> 62.  2017-04-18 09:12:40 +0000      249 bytes  lib/commands/clean-module.js</tspan>
-<tspan x="10" y="1194"> 63.  2017-04-18 09:12:40 +0000     1017 bytes  lib/commands/clean.js</tspan>
-<tspan x="10" y="1210"> 64.  2017-04-18 09:12:40 +0000     1090 bytes  lib/commands/init.js</tspan>
-<tspan x="10" y="1226"> 65.  2017-04-18 09:12:40 +0000     1361 bytes  lib/commands/new.js</tspan>
-<tspan x="10" y="1242"> 66.  2017-04-18 09:12:40 +0000      659 bytes  lib/commands/serve-inferno-app.js</tspan>
-<tspan x="10" y="1258"> 67.  2017-04-18 09:12:40 +0000     2521 bytes  lib/commands/serve-inferno.js</tspan>
-<tspan x="10" y="1274"> 68.  2017-04-18 09:12:40 +0000      650 bytes  lib/commands/serve-preact-app.js</tspan>
-<tspan x="10" y="1290"> 69.  2017-04-18 09:12:40 +0000     2524 bytes  lib/commands/serve-preact.js</tspan>
-<tspan x="10" y="1306"> 70.  2017-04-18 09:12:40 +0000      642 bytes  lib/commands/serve-react-app.js</tspan>
-<tspan x="10" y="1322"> 71.  2017-04-18 09:12:40 +0000     1010 bytes  lib/commands/serve-react-demo.js</tspan>
-<tspan x="10" y="1338"> 72.  2017-04-18 09:12:40 +0000     2538 bytes  lib/commands/serve-react.js</tspan>
-<tspan x="10" y="1354"> 73.  2017-04-18 09:12:40 +0000      631 bytes  lib/commands/serve-web-app.js</tspan>
-<tspan x="10" y="1370"> 74.  2017-04-18 09:12:40 +0000     1652 bytes  lib/commands/serve.js</tspan>
-<tspan x="10" y="1386"> 75.  2017-04-18 09:12:40 +0000      441 bytes  lib/commands/test-inferno.js</tspan>
-<tspan x="10" y="1402"> 76.  2017-04-18 09:12:40 +0000      438 bytes  lib/commands/test-preact.js</tspan>
-<tspan x="10" y="1418"> 77.  2017-04-18 09:12:40 +0000      435 bytes  lib/commands/test-react.js</tspan>
-<tspan x="10" y="1434"> 78.  2017-04-18 09:12:40 +0000     1372 bytes  lib/commands/test.js</tspan>
-<tspan x="10" y="1450"> 79.  2017-04-18 09:12:40 +0000      626 bytes  lib/constants.js</tspan>
-<tspan x="10" y="1466"> 80.  2017-04-18 09:12:40 +0000     5139 bytes  lib/createBabelConfig.js</tspan>
-<tspan x="10" y="1482"> 81.  2017-04-18 09:12:40 +0000     8483 bytes  lib/createKarmaConfig.js</tspan>
-<tspan x="10" y="1498"> 82.  2017-04-18 09:12:40 +0000     9102 bytes  lib/createProject.js</tspan>
-<tspan x="10" y="1514"> 83.  2017-04-18 09:12:40 +0000     1339 bytes  lib/createServeInfernoAppConfig.js</tspan>
-<tspan x="10" y="1530"> 84.  2017-04-18 09:12:40 +0000     1372 bytes  lib/createServePreactAppConfig.js</tspan>
-<tspan x="10" y="1546"> 85.  2017-04-18 09:12:40 +0000     1229 bytes  lib/createServeReactAppConfig.js</tspan>
-<tspan x="10" y="1562"> 86.  2017-04-18 09:12:40 +0000     1166 bytes  lib/createServeWebAppConfig.js</tspan>
-<tspan x="10" y="1578"> 87.  2017-04-18 09:12:40 +0000     2230 bytes  lib/createServerWebpackConfig.js</tspan>
-<tspan x="10" y="1594"> 88.  2017-04-18 09:12:40 +0000    22954 bytes  lib/createWebpackConfig.js</tspan>
-<tspan x="10" y="1610"> 89.  2017-04-18 09:12:40 +0000      302 bytes  lib/debug.js</tspan>
-<tspan x="10" y="1626"> 90.  2017-04-18 09:12:40 +0000     1692 bytes  lib/devServer.js</tspan>
-<tspan x="10" y="1642"> 91.  2017-04-18 09:12:40 +0000      941 bytes  lib/errors.js</tspan>
-<tspan x="10" y="1658"> 92.  2017-04-18 09:12:40 +0000     2841 bytes  lib/expressMiddleware.js</tspan>
-<tspan x="10" y="1674"> 93.  2017-04-18 09:12:40 +0000     2271 bytes  lib/getPluginConfig.js</tspan>
-<tspan x="10" y="1690"> 94.  2017-04-18 09:12:40 +0000    18054 bytes  lib/getUserConfig.js</tspan>
-<tspan x="10" y="1706"> 95.  2017-04-18 09:12:40 +0000     1213 bytes  lib/infernoRunEntry.js</tspan>
-<tspan x="10" y="1722"> 96.  2017-04-18 09:12:40 +0000      931 bytes  lib/karmaServer.js</tspan>
-<tspan x="10" y="1738"> 97.  2017-04-18 09:12:40 +0000     6689 bytes  lib/moduleBuild.js</tspan>
-<tspan x="10" y="1754"> 98.  2017-04-18 09:12:40 +0000     1243 bytes  lib/preactRunEntry.js</tspan>
-<tspan x="10" y="1770"> 99.  2017-04-18 09:12:40 +0000      922 bytes  lib/reactRunEntry.js</tspan>
-<tspan x="10" y="1786">100.  2017-04-18 09:12:40 +0000     6337 bytes  lib/utils.js</tspan>
-<tspan x="10" y="1802">101.  2017-04-18 09:12:40 +0000     1979 bytes  lib/webpackBuild.js</tspan>
-<tspan x="10" y="1818">102.  2017-04-18 09:12:40 +0000     3119 bytes  lib/webpackServer.js</tspan>
-<tspan x="10" y="1834">103.  2017-04-18 09:12:40 +0000     5894 bytes  lib/webpackUtils.js</tspan>
-<tspan x="10" y="1850">104.  2017-04-18 09:12:40 +0000     6675 bytes  package.json</tspan>
-<tspan x="10" y="1866">105.  2017-04-18 09:12:40 +0000      796 bytes  polyfills.js</tspan>
-<tspan x="10" y="1882">106.  2017-04-18 09:12:40 +0000      794 bytes  templates/inferno-app/CONTRIBUTING.md</tspan>
-<tspan x="10" y="1898">107.  2017-04-18 09:12:40 +0000       36 bytes  templates/inferno-app/README.md</tspan>
-<tspan x="10" y="1914">108.  2017-04-18 09:12:40 +0000       45 bytes  templates/inferno-app/_.gitignore</tspan>
-<tspan x="10" y="1930">109.  2017-04-18 09:12:40 +0000      338 bytes  templates/inferno-app/_.travis.yml</tspan>
-<tspan x="10" y="1946">110.  2017-04-18 09:12:40 +0000      502 bytes  templates/inferno-app/_package.json</tspan>
-<tspan x="10" y="1962">111.  2017-04-18 09:12:40 +0000       43 bytes  templates/inferno-app/nwb.config.js</tspan>
-<tspan x="10" y="1978">112.  2017-04-18 09:12:40 +0000        0 bytes  templates/inferno-app/public/_.gitkeep</tspan>
-<tspan x="10" y="1994">113.  2017-04-18 09:12:40 +0000      640 bytes  templates/inferno-app/src/App.css</tspan>
-<tspan x="10" y="2010">114.  2017-04-18 09:12:40 +0000      548 bytes  templates/inferno-app/src/App.js</tspan>
-<tspan x="10" y="2026">115.  2017-04-18 09:12:40 +0000      100 bytes  templates/inferno-app/src/index.css</tspan>
-<tspan x="10" y="2042">116.  2017-04-18 09:12:40 +0000      339 bytes  templates/inferno-app/src/index.html</tspan>
-<tspan x="10" y="2058">117.  2017-04-18 09:12:40 +0000      176 bytes  templates/inferno-app/src/index.js</tspan>
-<tspan x="10" y="2074">118.  2017-04-18 09:12:40 +0000     1738 bytes  templates/inferno-app/src/inferno.svg</tspan>
-<tspan x="10" y="2090">119.  2017-04-18 09:12:40 +0000      402 bytes  templates/inferno-app/tests/App-test.js</tspan>
-<tspan x="10" y="2106">120.  2017-04-18 09:12:40 +0000       37 bytes  templates/inferno-app/tests/_.eslintrc</tspan>
-<tspan x="10" y="2122">121.  2017-04-18 09:12:40 +0000      794 bytes  templates/preact-app/CONTRIBUTING.md</tspan>
-<tspan x="10" y="2138">122.  2017-04-18 09:12:40 +0000       36 bytes  templates/preact-app/README.md</tspan>
-<tspan x="10" y="2154">123.  2017-04-18 09:12:40 +0000       45 bytes  templates/preact-app/_.gitignore</tspan>
-<tspan x="10" y="2170">124.  2017-04-18 09:12:40 +0000      338 bytes  templates/preact-app/_.travis.yml</tspan>
-<tspan x="10" y="2186">125.  2017-04-18 09:12:40 +0000      497 bytes  templates/preact-app/_package.json</tspan>
-<tspan x="10" y="2202">126.  2017-04-18 09:12:40 +0000       42 bytes  templates/preact-app/nwb.config.js</tspan>
-<tspan x="10" y="2218">127.  2017-04-18 09:12:40 +0000        0 bytes  templates/preact-app/public/_.gitkeep</tspan>
-<tspan x="10" y="2234">128.  2017-04-18 09:12:40 +0000      623 bytes  templates/preact-app/src/App.css</tspan>
-<tspan x="10" y="2250">129.  2017-04-18 09:12:40 +0000      588 bytes  templates/preact-app/src/App.js</tspan>
-<tspan x="10" y="2266">130.  2017-04-18 09:12:40 +0000      100 bytes  templates/preact-app/src/index.css</tspan>
-<tspan x="10" y="2282">131.  2017-04-18 09:12:40 +0000      339 bytes  templates/preact-app/src/index.html</tspan>
-<tspan x="10" y="2298">132.  2017-04-18 09:12:40 +0000      302 bytes  templates/preact-app/src/index.js</tspan>
-<tspan x="10" y="2314">133.  2017-04-18 09:12:40 +0000      758 bytes  templates/preact-app/src/preact-logo.svg</tspan>
-<tspan x="10" y="2330">134.  2017-04-18 09:12:40 +0000     3221 bytes  templates/preact-app/src/preact-name.svg</tspan>
-<tspan x="10" y="2346">135.  2017-04-18 09:12:40 +0000      381 bytes  templates/preact-app/tests/App-test.js</tspan>
-<tspan x="10" y="2362">136.  2017-04-18 09:12:40 +0000       37 bytes  templates/preact-app/tests/_.eslintrc</tspan>
-<tspan x="10" y="2378">137.  2017-04-18 09:12:40 +0000      794 bytes  templates/react-app/CONTRIBUTING.md</tspan>
-<tspan x="10" y="2394">138.  2017-04-18 09:12:40 +0000       36 bytes  templates/react-app/README.md</tspan>
-<tspan x="10" y="2410">139.  2017-04-18 09:12:40 +0000       45 bytes  templates/react-app/_.gitignore</tspan>
-<tspan x="10" y="2426">140.  2017-04-18 09:12:40 +0000      338 bytes  templates/react-app/_.travis.yml</tspan>
-<tspan x="10" y="2442">141.  2017-04-18 09:12:40 +0000      492 bytes  templates/react-app/_package.json</tspan>
-<tspan x="10" y="2458">142.  2017-04-18 09:12:40 +0000       41 bytes  templates/react-app/nwb.config.js</tspan>
-<tspan x="10" y="2474">143.  2017-04-18 09:12:40 +0000        0 bytes  templates/react-app/public/_.gitkeep</tspan>
-<tspan x="10" y="2490">144.  2017-04-18 09:12:40 +0000      743 bytes  templates/react-app/src/App.css</tspan>
-<tspan x="10" y="2506">145.  2017-04-18 09:12:40 +0000      497 bytes  templates/react-app/src/App.js</tspan>
-<tspan x="10" y="2522">146.  2017-04-18 09:12:40 +0000      100 bytes  templates/react-app/src/index.css</tspan>
-<tspan x="10" y="2538">147.  2017-04-18 09:12:40 +0000      339 bytes  templates/react-app/src/index.html</tspan>
-<tspan x="10" y="2554">148.  2017-04-18 09:12:40 +0000      154 bytes  templates/react-app/src/index.js</tspan>
-<tspan x="10" y="2570">149.  2017-04-18 09:12:40 +0000     3419 bytes  templates/react-app/src/react.svg</tspan>
-<tspan x="10" y="2586">150.  2017-04-18 09:12:40 +0000      464 bytes  templates/react-app/tests/App-test.js</tspan>
-<tspan x="10" y="2602">151.  2017-04-18 09:12:40 +0000       37 bytes  templates/react-app/tests/_.eslintrc</tspan>
-<tspan x="10" y="2618">152.  2017-04-18 09:12:40 +0000      746 bytes  templates/react-component/CONTRIBUTING.md</tspan>
-<tspan x="10" y="2634">153.  2017-04-18 09:12:40 +0000      540 bytes  templates/react-component/README.md</tspan>
-<tspan x="10" y="2650">154.  2017-04-18 09:12:40 +0000       64 bytes  templates/react-component/_.gitignore</tspan>
-<tspan x="10" y="2666">155.  2017-04-18 09:12:40 +0000      338 bytes  templates/react-component/_.travis.yml</tspan>
-<tspan x="10" y="2682">156.  2017-04-18 09:12:40 +0000      741 bytes  templates/react-component/_package.json</tspan>
-<tspan x="10" y="2698">157.  2017-04-18 09:12:40 +0000      272 bytes  templates/react-component/demo/src/index.js</tspan>
-<tspan x="10" y="2714">158.  2017-04-18 09:12:40 +0000       47 bytes  templates/react-component/nwb.config.js</tspan>
-<tspan x="10" y="2730">159.  2017-04-18 09:12:40 +0000      153 bytes  templates/react-component/src/index.js</tspan>
-<tspan x="10" y="2746">160.  2017-04-18 09:12:40 +0000       37 bytes  templates/react-component/tests/_.eslintrc</tspan>
-<tspan x="10" y="2762">161.  2017-04-18 09:12:40 +0000      478 bytes  templates/react-component/tests/index-test.js</tspan>
-<tspan x="10" y="2778">162.  2017-04-18 09:12:40 +0000      818 bytes  templates/web-app/CONTRIBUTING.md</tspan>
-<tspan x="10" y="2794">163.  2017-04-18 09:12:40 +0000       36 bytes  templates/web-app/README.md</tspan>
-<tspan x="10" y="2810">164.  2017-04-18 09:12:40 +0000       45 bytes  templates/web-app/_.gitignore</tspan>
-<tspan x="10" y="2826">165.  2017-04-18 09:12:40 +0000      338 bytes  templates/web-app/_.travis.yml</tspan>
-<tspan x="10" y="2842">166.  2017-04-18 09:12:40 +0000      479 bytes  templates/web-app/_package.json</tspan>
-<tspan x="10" y="2858">167.  2017-04-18 09:12:40 +0000       39 bytes  templates/web-app/nwb.config.js</tspan>
-<tspan x="10" y="2874">168.  2017-04-18 09:12:40 +0000        0 bytes  templates/web-app/public/_.gitkeep</tspan>
-<tspan x="10" y="2890">169.  2017-04-18 09:12:40 +0000      339 bytes  templates/web-app/src/index.html</tspan>
-<tspan x="10" y="2906">170.  2017-04-18 09:12:40 +0000       89 bytes  templates/web-app/src/index.js</tspan>
-<tspan x="10" y="2922">171.  2017-04-18 09:12:40 +0000       37 bytes  templates/web-app/tests/_.eslintrc</tspan>
-<tspan x="10" y="2938">172.  2017-04-18 09:12:40 +0000      382 bytes  templates/web-app/tests/index-test.js</tspan>
-<tspan x="10" y="2954">173.  2017-04-18 09:12:40 +0000      530 bytes  templates/web-module/CONTRIBUTING.md</tspan>
-<tspan x="10" y="2970">174.  2017-04-18 09:12:40 +0000      540 bytes  templates/web-module/README.md</tspan>
-<tspan x="10" y="2986">175.  2017-04-18 09:12:40 +0000       64 bytes  templates/web-module/_.gitignore</tspan>
-<tspan x="10" y="3002">176.  2017-04-18 09:12:40 +0000      338 bytes  templates/web-module/_.travis.yml</tspan>
-<tspan x="10" y="3018">177.  2017-04-18 09:12:40 +0000      542 bytes  templates/web-module/_package.json</tspan>
-<tspan x="10" y="3034">178.  2017-04-18 09:12:40 +0000       42 bytes  templates/web-module/nwb.config.js</tspan>
-<tspan x="10" y="3050">179.  2017-04-18 09:12:40 +0000       37 bytes  templates/web-module/src/index.js</tspan>
-<tspan x="10" y="3066">180.  2017-04-18 09:12:40 +0000       37 bytes  templates/web-module/tests/_.eslintrc</tspan>
-<tspan x="10" y="3082">181.  2017-04-18 09:12:40 +0000      202 bytes  templates/web-module/tests/index-test.js</tspan>
-<tspan x="10" y="3098">182.  2017-04-18 09:12:40 +0000      365 bytes  templates/webpack-template.html</tspan>
+<tspan x="10" y="810"> 39.  2017-04-18 09:15:05 +0000     2920 bytes  docs/guides/resources/react-serve.png</tspan>
+<tspan x="10" y="826"> 40.  2017-04-18 09:15:05 +0000       52 bytes  express.js</tspan>
+<tspan x="10" y="842"> 41.  2017-04-18 09:15:05 +0000     2907 bytes  lib/WebpackStatusPlugin.js</tspan>
+<tspan x="10" y="858"> 42.  2017-04-18 09:15:05 +0000      899 bytes  lib/appConfig.js</tspan>
+<tspan x="10" y="874"> 43.  2017-04-18 09:15:05 +0000     4202 bytes  lib/bin/inferno.js</tspan>
+<tspan x="10" y="890"> 44.  2017-04-18 09:15:05 +0000      961 bytes  lib/bin/nwb.js</tspan>
+<tspan x="10" y="906"> 45.  2017-04-18 09:15:05 +0000     4191 bytes  lib/bin/preact.js</tspan>
+<tspan x="10" y="922"> 46.  2017-04-18 09:15:05 +0000     4362 bytes  lib/bin/react.js</tspan>
+<tspan x="10" y="938"> 47.  2017-04-18 09:15:05 +0000     9842 bytes  lib/cli.js</tspan>
+<tspan x="10" y="954"> 48.  2017-04-18 09:15:05 +0000     1741 bytes  lib/commands/build-demo.js</tspan>
+<tspan x="10" y="970"> 49.  2017-04-18 09:15:05 +0000     2179 bytes  lib/commands/build-inferno-app.js</tspan>
+<tspan x="10" y="986"> 50.  2017-04-18 09:15:05 +0000     3186 bytes  lib/commands/build-inferno.js</tspan>
+<tspan x="10" y="1002"> 51.  2017-04-18 09:15:05 +0000     2209 bytes  lib/commands/build-preact-app.js</tspan>
+<tspan x="10" y="1018"> 52.  2017-04-18 09:15:05 +0000     3189 bytes  lib/commands/build-preact.js</tspan>
+<tspan x="10" y="1034"> 53.  2017-04-18 09:15:05 +0000     2857 bytes  lib/commands/build-react-app.js</tspan>
+<tspan x="10" y="1050"> 54.  2017-04-18 09:15:05 +0000     1697 bytes  lib/commands/build-react-component.js</tspan>
+<tspan x="10" y="1066"> 55.  2017-04-18 09:15:05 +0000     3963 bytes  lib/commands/build-react.js</tspan>
+<tspan x="10" y="1082"> 56.  2017-04-18 09:15:05 +0000     1998 bytes  lib/commands/build-web-app.js</tspan>
+<tspan x="10" y="1098"> 57.  2017-04-18 09:15:05 +0000      458 bytes  lib/commands/build-web-module.js</tspan>
+<tspan x="10" y="1114"> 58.  2017-04-18 09:15:05 +0000     1666 bytes  lib/commands/build.js</tspan>
+<tspan x="10" y="1130"> 59.  2017-04-18 09:15:05 +0000      827 bytes  lib/commands/check-config.js</tspan>
+<tspan x="10" y="1146"> 60.  2017-04-18 09:15:05 +0000      260 bytes  lib/commands/clean-app.js</tspan>
+<tspan x="10" y="1162"> 61.  2017-04-18 09:15:05 +0000      224 bytes  lib/commands/clean-demo.js</tspan>
+<tspan x="10" y="1178"> 62.  2017-04-18 09:15:05 +0000      249 bytes  lib/commands/clean-module.js</tspan>
+<tspan x="10" y="1194"> 63.  2017-04-18 09:15:05 +0000     1017 bytes  lib/commands/clean.js</tspan>
+<tspan x="10" y="1210"> 64.  2017-04-18 09:15:05 +0000     1090 bytes  lib/commands/init.js</tspan>
+<tspan x="10" y="1226"> 65.  2017-04-18 09:15:05 +0000     1361 bytes  lib/commands/new.js</tspan>
+<tspan x="10" y="1242"> 66.  2017-04-18 09:15:05 +0000      659 bytes  lib/commands/serve-inferno-app.js</tspan>
+<tspan x="10" y="1258"> 67.  2017-04-18 09:15:05 +0000     2521 bytes  lib/commands/serve-inferno.js</tspan>
+<tspan x="10" y="1274"> 68.  2017-04-18 09:15:05 +0000      650 bytes  lib/commands/serve-preact-app.js</tspan>
+<tspan x="10" y="1290"> 69.  2017-04-18 09:15:05 +0000     2524 bytes  lib/commands/serve-preact.js</tspan>
+<tspan x="10" y="1306"> 70.  2017-04-18 09:15:05 +0000      642 bytes  lib/commands/serve-react-app.js</tspan>
+<tspan x="10" y="1322"> 71.  2017-04-18 09:15:05 +0000     1010 bytes  lib/commands/serve-react-demo.js</tspan>
+<tspan x="10" y="1338"> 72.  2017-04-18 09:15:05 +0000     2538 bytes  lib/commands/serve-react.js</tspan>
+<tspan x="10" y="1354"> 73.  2017-04-18 09:15:05 +0000      631 bytes  lib/commands/serve-web-app.js</tspan>
+<tspan x="10" y="1370"> 74.  2017-04-18 09:15:05 +0000     1652 bytes  lib/commands/serve.js</tspan>
+<tspan x="10" y="1386"> 75.  2017-04-18 09:15:05 +0000      441 bytes  lib/commands/test-inferno.js</tspan>
+<tspan x="10" y="1402"> 76.  2017-04-18 09:15:05 +0000      438 bytes  lib/commands/test-preact.js</tspan>
+<tspan x="10" y="1418"> 77.  2017-04-18 09:15:05 +0000      435 bytes  lib/commands/test-react.js</tspan>
+<tspan x="10" y="1434"> 78.  2017-04-18 09:15:05 +0000     1372 bytes  lib/commands/test.js</tspan>
+<tspan x="10" y="1450"> 79.  2017-04-18 09:15:05 +0000      626 bytes  lib/constants.js</tspan>
+<tspan x="10" y="1466"> 80.  2017-04-18 09:15:05 +0000     5139 bytes  lib/createBabelConfig.js</tspan>
+<tspan x="10" y="1482"> 81.  2017-04-18 09:15:05 +0000     8483 bytes  lib/createKarmaConfig.js</tspan>
+<tspan x="10" y="1498"> 82.  2017-04-18 09:15:05 +0000     9102 bytes  lib/createProject.js</tspan>
+<tspan x="10" y="1514"> 83.  2017-04-18 09:15:05 +0000     1339 bytes  lib/createServeInfernoAppConfig.js</tspan>
+<tspan x="10" y="1530"> 84.  2017-04-18 09:15:05 +0000     1372 bytes  lib/createServePreactAppConfig.js</tspan>
+<tspan x="10" y="1546"> 85.  2017-04-18 09:15:05 +0000     1229 bytes  lib/createServeReactAppConfig.js</tspan>
+<tspan x="10" y="1562"> 86.  2017-04-18 09:15:05 +0000     1166 bytes  lib/createServeWebAppConfig.js</tspan>
+<tspan x="10" y="1578"> 87.  2017-04-18 09:15:05 +0000     2230 bytes  lib/createServerWebpackConfig.js</tspan>
+<tspan x="10" y="1594"> 88.  2017-04-18 09:15:05 +0000    22954 bytes  lib/createWebpackConfig.js</tspan>
+<tspan x="10" y="1610"> 89.  2017-04-18 09:15:05 +0000      302 bytes  lib/debug.js</tspan>
+<tspan x="10" y="1626"> 90.  2017-04-18 09:15:05 +0000     1692 bytes  lib/devServer.js</tspan>
+<tspan x="10" y="1642"> 91.  2017-04-18 09:15:05 +0000      941 bytes  lib/errors.js</tspan>
+<tspan x="10" y="1658"> 92.  2017-04-18 09:15:05 +0000     2841 bytes  lib/expressMiddleware.js</tspan>
+<tspan x="10" y="1674"> 93.  2017-04-18 09:15:05 +0000     2271 bytes  lib/getPluginConfig.js</tspan>
+<tspan x="10" y="1690"> 94.  2017-04-18 09:15:05 +0000    18054 bytes  lib/getUserConfig.js</tspan>
+<tspan x="10" y="1706"> 95.  2017-04-18 09:15:05 +0000     1213 bytes  lib/infernoRunEntry.js</tspan>
+<tspan x="10" y="1722"> 96.  2017-04-18 09:15:05 +0000      931 bytes  lib/karmaServer.js</tspan>
+<tspan x="10" y="1738"> 97.  2017-04-18 09:15:05 +0000     6689 bytes  lib/moduleBuild.js</tspan>
+<tspan x="10" y="1754"> 98.  2017-04-18 09:15:05 +0000     1243 bytes  lib/preactRunEntry.js</tspan>
+<tspan x="10" y="1770"> 99.  2017-04-18 09:15:05 +0000      922 bytes  lib/reactRunEntry.js</tspan>
+<tspan x="10" y="1786">100.  2017-04-18 09:15:05 +0000     6337 bytes  lib/utils.js</tspan>
+<tspan x="10" y="1802">101.  2017-04-18 09:15:05 +0000     1979 bytes  lib/webpackBuild.js</tspan>
+<tspan x="10" y="1818">102.  2017-04-18 09:15:05 +0000     3119 bytes  lib/webpackServer.js</tspan>
+<tspan x="10" y="1834">103.  2017-04-18 09:15:05 +0000     5894 bytes  lib/webpackUtils.js</tspan>
+<tspan x="10" y="1850">104.  2017-04-18 09:15:05 +0000     6675 bytes  package.json</tspan>
+<tspan x="10" y="1866">105.  2017-04-18 09:15:05 +0000      796 bytes  polyfills.js</tspan>
+<tspan x="10" y="1882">106.  2017-04-18 09:15:05 +0000      794 bytes  templates/inferno-app/CONTRIBUTING.md</tspan>
+<tspan x="10" y="1898">107.  2017-04-18 09:15:05 +0000       36 bytes  templates/inferno-app/README.md</tspan>
+<tspan x="10" y="1914">108.  2017-04-18 09:15:05 +0000       45 bytes  templates/inferno-app/_.gitignore</tspan>
+<tspan x="10" y="1930">109.  2017-04-18 09:15:05 +0000      338 bytes  templates/inferno-app/_.travis.yml</tspan>
+<tspan x="10" y="1946">110.  2017-04-18 09:15:05 +0000      502 bytes  templates/inferno-app/_package.json</tspan>
+<tspan x="10" y="1962">111.  2017-04-18 09:15:05 +0000       43 bytes  templates/inferno-app/nwb.config.js</tspan>
+<tspan x="10" y="1978">112.  2017-04-18 09:15:05 +0000        0 bytes  templates/inferno-app/public/_.gitkeep</tspan>
+<tspan x="10" y="1994">113.  2017-04-18 09:15:05 +0000      640 bytes  templates/inferno-app/src/App.css</tspan>
+<tspan x="10" y="2010">114.  2017-04-18 09:15:05 +0000      548 bytes  templates/inferno-app/src/App.js</tspan>
+<tspan x="10" y="2026">115.  2017-04-18 09:15:05 +0000      100 bytes  templates/inferno-app/src/index.css</tspan>
+<tspan x="10" y="2042">116.  2017-04-18 09:15:05 +0000      339 bytes  templates/inferno-app/src/index.html</tspan>
+<tspan x="10" y="2058">117.  2017-04-18 09:15:05 +0000      176 bytes  templates/inferno-app/src/index.js</tspan>
+<tspan x="10" y="2074">118.  2017-04-18 09:15:05 +0000     1738 bytes  templates/inferno-app/src/inferno.svg</tspan>
+<tspan x="10" y="2090">119.  2017-04-18 09:15:05 +0000      402 bytes  templates/inferno-app/tests/App-test.js</tspan>
+<tspan x="10" y="2106">120.  2017-04-18 09:15:05 +0000       37 bytes  templates/inferno-app/tests/_.eslintrc</tspan>
+<tspan x="10" y="2122">121.  2017-04-18 09:15:05 +0000      794 bytes  templates/preact-app/CONTRIBUTING.md</tspan>
+<tspan x="10" y="2138">122.  2017-04-18 09:15:05 +0000       36 bytes  templates/preact-app/README.md</tspan>
+<tspan x="10" y="2154">123.  2017-04-18 09:15:05 +0000       45 bytes  templates/preact-app/_.gitignore</tspan>
+<tspan x="10" y="2170">124.  2017-04-18 09:15:05 +0000      338 bytes  templates/preact-app/_.travis.yml</tspan>
+<tspan x="10" y="2186">125.  2017-04-18 09:15:05 +0000      497 bytes  templates/preact-app/_package.json</tspan>
+<tspan x="10" y="2202">126.  2017-04-18 09:15:05 +0000       42 bytes  templates/preact-app/nwb.config.js</tspan>
+<tspan x="10" y="2218">127.  2017-04-18 09:15:05 +0000        0 bytes  templates/preact-app/public/_.gitkeep</tspan>
+<tspan x="10" y="2234">128.  2017-04-18 09:15:05 +0000      623 bytes  templates/preact-app/src/App.css</tspan>
+<tspan x="10" y="2250">129.  2017-04-18 09:15:05 +0000      588 bytes  templates/preact-app/src/App.js</tspan>
+<tspan x="10" y="2266">130.  2017-04-18 09:15:05 +0000      100 bytes  templates/preact-app/src/index.css</tspan>
+<tspan x="10" y="2282">131.  2017-04-18 09:15:05 +0000      339 bytes  templates/preact-app/src/index.html</tspan>
+<tspan x="10" y="2298">132.  2017-04-18 09:15:05 +0000      302 bytes  templates/preact-app/src/index.js</tspan>
+<tspan x="10" y="2314">133.  2017-04-18 09:15:05 +0000      758 bytes  templates/preact-app/src/preact-logo.svg</tspan>
+<tspan x="10" y="2330">134.  2017-04-18 09:15:05 +0000     3221 bytes  templates/preact-app/src/preact-name.svg</tspan>
+<tspan x="10" y="2346">135.  2017-04-18 09:15:05 +0000      381 bytes  templates/preact-app/tests/App-test.js</tspan>
+<tspan x="10" y="2362">136.  2017-04-18 09:15:05 +0000       37 bytes  templates/preact-app/tests/_.eslintrc</tspan>
+<tspan x="10" y="2378">137.  2017-04-18 09:15:05 +0000      794 bytes  templates/react-app/CONTRIBUTING.md</tspan>
+<tspan x="10" y="2394">138.  2017-04-18 09:15:05 +0000       36 bytes  templates/react-app/README.md</tspan>
+<tspan x="10" y="2410">139.  2017-04-18 09:15:05 +0000       45 bytes  templates/react-app/_.gitignore</tspan>
+<tspan x="10" y="2426">140.  2017-04-18 09:15:05 +0000      338 bytes  templates/react-app/_.travis.yml</tspan>
+<tspan x="10" y="2442">141.  2017-04-18 09:15:05 +0000      492 bytes  templates/react-app/_package.json</tspan>
+<tspan x="10" y="2458">142.  2017-04-18 09:15:05 +0000       41 bytes  templates/react-app/nwb.config.js</tspan>
+<tspan x="10" y="2474">143.  2017-04-18 09:15:05 +0000        0 bytes  templates/react-app/public/_.gitkeep</tspan>
+<tspan x="10" y="2490">144.  2017-04-18 09:15:05 +0000      743 bytes  templates/react-app/src/App.css</tspan>
+<tspan x="10" y="2506">145.  2017-04-18 09:15:05 +0000      497 bytes  templates/react-app/src/App.js</tspan>
+<tspan x="10" y="2522">146.  2017-04-18 09:15:05 +0000      100 bytes  templates/react-app/src/index.css</tspan>
+<tspan x="10" y="2538">147.  2017-04-18 09:15:05 +0000      339 bytes  templates/react-app/src/index.html</tspan>
+<tspan x="10" y="2554">148.  2017-04-18 09:15:05 +0000      154 bytes  templates/react-app/src/index.js</tspan>
+<tspan x="10" y="2570">149.  2017-04-18 09:15:05 +0000     3419 bytes  templates/react-app/src/react.svg</tspan>
+<tspan x="10" y="2586">150.  2017-04-18 09:15:05 +0000      464 bytes  templates/react-app/tests/App-test.js</tspan>
+<tspan x="10" y="2602">151.  2017-04-18 09:15:05 +0000       37 bytes  templates/react-app/tests/_.eslintrc</tspan>
+<tspan x="10" y="2618">152.  2017-04-18 09:15:05 +0000      746 bytes  templates/react-component/CONTRIBUTING.md</tspan>
+<tspan x="10" y="2634">153.  2017-04-18 09:15:05 +0000      540 bytes  templates/react-component/README.md</tspan>
+<tspan x="10" y="2650">154.  2017-04-18 09:15:05 +0000       64 bytes  templates/react-component/_.gitignore</tspan>
+<tspan x="10" y="2666">155.  2017-04-18 09:15:05 +0000      338 bytes  templates/react-component/_.travis.yml</tspan>
+<tspan x="10" y="2682">156.  2017-04-18 09:15:05 +0000      741 bytes  templates/react-component/_package.json</tspan>
+<tspan x="10" y="2698">157.  2017-04-18 09:15:05 +0000      272 bytes  templates/react-component/demo/src/index.js</tspan>
+<tspan x="10" y="2714">158.  2017-04-18 09:15:05 +0000       47 bytes  templates/react-component/nwb.config.js</tspan>
+<tspan x="10" y="2730">159.  2017-04-18 09:15:05 +0000      153 bytes  templates/react-component/src/index.js</tspan>
+<tspan x="10" y="2746">160.  2017-04-18 09:15:05 +0000       37 bytes  templates/react-component/tests/_.eslintrc</tspan>
+<tspan x="10" y="2762">161.  2017-04-18 09:15:05 +0000      478 bytes  templates/react-component/tests/index-test.js</tspan>
+<tspan x="10" y="2778">162.  2017-04-18 09:15:05 +0000      818 bytes  templates/web-app/CONTRIBUTING.md</tspan>
+<tspan x="10" y="2794">163.  2017-04-18 09:15:05 +0000       36 bytes  templates/web-app/README.md</tspan>
+<tspan x="10" y="2810">164.  2017-04-18 09:15:05 +0000       45 bytes  templates/web-app/_.gitignore</tspan>
+<tspan x="10" y="2826">165.  2017-04-18 09:15:05 +0000      338 bytes  templates/web-app/_.travis.yml</tspan>
+<tspan x="10" y="2842">166.  2017-04-18 09:15:05 +0000      479 bytes  templates/web-app/_package.json</tspan>
+<tspan x="10" y="2858">167.  2017-04-18 09:15:05 +0000       39 bytes  templates/web-app/nwb.config.js</tspan>
+<tspan x="10" y="2874">168.  2017-04-18 09:15:05 +0000        0 bytes  templates/web-app/public/_.gitkeep</tspan>
+<tspan x="10" y="2890">169.  2017-04-18 09:15:05 +0000      339 bytes  templates/web-app/src/index.html</tspan>
+<tspan x="10" y="2906">170.  2017-04-18 09:15:05 +0000       89 bytes  templates/web-app/src/index.js</tspan>
+<tspan x="10" y="2922">171.  2017-04-18 09:15:05 +0000       37 bytes  templates/web-app/tests/_.eslintrc</tspan>
+<tspan x="10" y="2938">172.  2017-04-18 09:15:05 +0000      382 bytes  templates/web-app/tests/index-test.js</tspan>
+<tspan x="10" y="2954">173.  2017-04-18 09:15:05 +0000      530 bytes  templates/web-module/CONTRIBUTING.md</tspan>
+<tspan x="10" y="2970">174.  2017-04-18 09:15:05 +0000      540 bytes  templates/web-module/README.md</tspan>
+<tspan x="10" y="2986">175.  2017-04-18 09:15:05 +0000       64 bytes  templates/web-module/_.gitignore</tspan>
+<tspan x="10" y="3002">176.  2017-04-18 09:15:05 +0000      338 bytes  templates/web-module/_.travis.yml</tspan>
+<tspan x="10" y="3018">177.  2017-04-18 09:15:05 +0000      542 bytes  templates/web-module/_package.json</tspan>
+<tspan x="10" y="3034">178.  2017-04-18 09:15:05 +0000       42 bytes  templates/web-module/nwb.config.js</tspan>
+<tspan x="10" y="3050">179.  2017-04-18 09:15:05 +0000       37 bytes  templates/web-module/src/index.js</tspan>
+<tspan x="10" y="3066">180.  2017-04-18 09:15:05 +0000       37 bytes  templates/web-module/tests/_.eslintrc</tspan>
+<tspan x="10" y="3082">181.  2017-04-18 09:15:05 +0000      202 bytes  templates/web-module/tests/index-test.js</tspan>
+<tspan x="10" y="3098">182.  2017-04-18 09:15:05 +0000      365 bytes  templates/webpack-template.html</tspan>
 </text>
 </svg>
