@@ -25,8 +25,8 @@
 <tspan x="10" y="362">  │     └── util-deprecate@1.0.2 </tspan>
 <tspan x="10" y="378">  ├─┬ autoprefixer@6.7.0 </tspan>
 <tspan x="10" y="394">  │ ├─┬ browserslist@1.6.0 </tspan>
-<tspan x="10" y="410">  │ │ └── electron-to-chromium@1.3.3 </tspan>
-<tspan x="10" y="426">  │ ├── caniuse-db@1.0.30000655 </tspan>
+<tspan x="10" y="410">  │ │ └── electron-to-chromium@1.3.8 </tspan>
+<tspan x="10" y="426">  │ ├── caniuse-db@1.0.30000660 </tspan>
 <tspan x="10" y="442">  │ ├── normalize-range@0.1.2 </tspan>
 <tspan x="10" y="458">  │ ├── num2fraction@1.2.2 </tspan>
 <tspan x="10" y="474">  │ ├─┬ postcss@5.2.17 </tspan>
@@ -55,7 +55,7 @@
 <tspan x="10" y="842">  │ ├── path-is-absolute@1.0.1 </tspan>
 <tspan x="10" y="858">  │ ├── slash@1.0.0 </tspan>
 <tspan x="10" y="874">  │ ├── source-map@0.5.6 </tspan>
-<tspan x="10" y="890">  │ └─┬ v8flags@2.0.12 </tspan>
+<tspan x="10" y="890">  │ └─┬ v8flags@2.1.1 </tspan>
 <tspan x="10" y="906">  │   └── user-home@1.1.1 </tspan>
 <tspan x="10" y="922">  ├─┬ babel-core@6.22.1 </tspan>
 <tspan x="10" y="938">  │ ├─┬ babel-code-frame@6.22.0 </tspan>
@@ -76,7 +76,7 @@
 <tspan x="10" y="1178">  │ │   └── loose-envify@1.3.1 </tspan>
 <tspan x="10" y="1194">  │ ├─┬ babel-types@6.24.1 </tspan>
 <tspan x="10" y="1210">  │ │ └── to-fast-properties@1.0.2 </tspan>
-<tspan x="10" y="1226">  │ ├── babylon@6.16.1 </tspan>
+<tspan x="10" y="1226">  │ ├── babylon@6.17.0 </tspan>
 <tspan x="10" y="1242">  │ ├── json5@0.5.1 </tspan>
 <tspan x="10" y="1258">  │ ├─┬ minimatch@3.0.3 </tspan>
 <tspan x="10" y="1274">  │ │ └─┬ brace-expansion@1.1.7 </tspan>
@@ -319,7 +319,7 @@
 <tspan x="10" y="5066">  │ │ │ ├── is-absolute-url@2.1.0 </tspan>
 <tspan x="10" y="5082">  │ │ │ └─┬ normalize-url@1.9.1 </tspan>
 <tspan x="10" y="5098">  │ │ │   ├── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="5114">  │ │ │   ├─┬ query-string@4.3.3 </tspan>
+<tspan x="10" y="5114">  │ │ │   ├─┬ query-string@4.3.4 </tspan>
 <tspan x="10" y="5130">  │ │ │   │ └── strict-uri-encode@1.1.0 </tspan>
 <tspan x="10" y="5146">  │ │ │   └─┬ sort-keys@1.1.2 </tspan>
 <tspan x="10" y="5162">  │ │ │     └── is-plain-obj@1.1.0 </tspan>
@@ -498,9 +498,9 @@
 <tspan x="10" y="7930">  │ │ └── raw-body@2.2.0 </tspan>
 <tspan x="10" y="7946">  │ ├── colors@1.1.2 </tspan>
 <tspan x="10" y="7962">  │ ├── combine-lists@1.0.1 </tspan>
-<tspan x="10" y="7978">  │ ├─┬ connect@3.6.0 </tspan>
-<tspan x="10" y="7994">  │ │ ├── debug@2.6.1 </tspan>
-<tspan x="10" y="8010">  │ │ └── finalhandler@1.0.0 </tspan>
+<tspan x="10" y="7978">  │ ├─┬ connect@3.6.1 </tspan>
+<tspan x="10" y="7994">  │ │ ├── debug@2.6.3 </tspan>
+<tspan x="10" y="8010">  │ │ └── finalhandler@1.0.1 </tspan>
 <tspan x="10" y="8026">  │ ├── di@0.0.1 </tspan>
 <tspan x="10" y="8042">  │ ├─┬ dom-serialize@2.2.1 </tspan>
 <tspan x="10" y="8058">  │ │ ├── custom-event@1.0.1 </tspan>
@@ -591,7 +591,7 @@
 <tspan x="10" y="9418">  │ │   │ └─┬ currently-unhandled@0.4.1 </tspan>
 <tspan x="10" y="9434">  │ │   │   └── array-find-index@1.0.2 </tspan>
 <tspan x="10" y="9450">  │ │   ├── map-obj@1.0.1 </tspan>
-<tspan x="10" y="9466">  │ │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="9466">  │ │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="9482">  │ │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="9498">  │ │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="9514">  │ │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -742,7 +742,7 @@
 <tspan x="10" y="11834">  │ └── asap@2.0.5 </tspan>
 <tspan x="10" y="11850">  ├── react-transform-catch-errors@1.0.2 </tspan>
 <tspan x="10" y="11866">  ├─┬ react-transform-hmr@1.0.4 </tspan>
-<tspan x="10" y="11882">  │ ├─┬ global@4.3.1 </tspan>
+<tspan x="10" y="11882">  │ ├─┬ global@4.3.2 </tspan>
 <tspan x="10" y="11898">  │ │ ├─┬ min-document@2.19.0 </tspan>
 <tspan x="10" y="11914">  │ │ │ └── dom-walk@0.1.1 </tspan>
 <tspan x="10" y="11930">  │ │ └── process@0.5.2 </tspan>
@@ -768,7 +768,7 @@
 <tspan x="10" y="12250">  │ ├── ajv-keywords@1.5.1 </tspan>
 <tspan x="10" y="12266">  │ ├─┬ enhanced-resolve@3.1.0 </tspan>
 <tspan x="10" y="12282">  │ │ └── memory-fs@0.4.1 </tspan>
-<tspan x="10" y="12298">  │ ├── interpret@1.0.2 </tspan>
+<tspan x="10" y="12298">  │ ├── interpret@1.0.3 </tspan>
 <tspan x="10" y="12314">  │ ├── json-loader@0.5.4 </tspan>
 <tspan x="10" y="12330">  │ ├── loader-runner@2.3.0 </tspan>
 <tspan x="10" y="12346">  │ ├── memory-fs@0.4.1 </tspan>
@@ -870,7 +870,7 @@
 <tspan x="10" y="13882">  │ └── memory-fs@0.4.1 </tspan>
 <tspan x="10" y="13898">  ├─┬ webpack-hot-middleware@2.15.0 </tspan>
 <tspan x="10" y="13914">  │ ├── ansi-html@0.0.6 </tspan>
-<tspan x="10" y="13930">  │ ├── html-entities@1.2.0 </tspan>
+<tspan x="10" y="13930">  │ ├── html-entities@1.2.1 </tspan>
 <tspan x="10" y="13946">  │ └── querystring@0.2.0 </tspan>
 <tspan x="10" y="13962">  ├─┬ webpack-md5-hash@0.0.5 </tspan>
 <tspan x="10" y="13978">  │ └─┬ md5@2.2.1 </tspan>
