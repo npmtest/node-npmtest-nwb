@@ -1,6 +1,6 @@
 # npmtest-nwb
 
-#### test coverage for  [nwb (v0.15.6)](https://github.com/insin/nwb#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nwb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nwb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nwb.svg)](https://travis-ci.org/npmtest/node-npmtest-nwb)
+#### basic test coverage for  [nwb (v0.15.6)](https://github.com/insin/nwb#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nwb.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nwb) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nwb.svg)](https://travis-ci.org/npmtest/node-npmtest-nwb)
 
 #### A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nwb/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nwb/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nwb/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nwb/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nwb/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nwb/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nwb/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nwb/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nwb/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nwb/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nwb/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nwb/build/coverage.html/index.html)
 
